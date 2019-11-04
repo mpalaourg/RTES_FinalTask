@@ -7,8 +7,8 @@
 
 This is an *experimental* application developed as part of the course "Real Time Embedded Systems" assignment, that took place in the Department of Electrical & Computer Engineering at Aristotle University of Thessaloniki in 2019.
 
-
 The goal is to communicate with other devices (Raspberry Pi), through WiFi to exchange messages. Each device will represent a node in the communication network and will be responsible for generating and sending new messages, but also for forwarding messages to others so that the information is transmitted to all devices and eventually the message will be delivered to its recipient.
+
 ---
 
 ## Execution
