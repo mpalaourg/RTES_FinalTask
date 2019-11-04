@@ -1,7 +1,7 @@
 # Real Time Embedded Systems Final Assignment, AUTh [2019]
-> Communicate with other devices (embedded systems) through WiFi using minimum energy possible
-> Embedded System used	-> Raspberry Pi 0
-> Cross Compiler used	-> [Cross Compiler for Raspberry Pi Zero] (https://sourceforge.net/projects/raspberry-pi-cross-compilers/files/Raspberry%20Pi%20GCC%20Cross-Compiler%20Toolchains/GCC%206.3.0/Raspberry%20Pi%201%2C%20Zero/)
+> Communicate with other devices (embedded systems) through WiFi using minimum energy possible.
+> Embedded System used	-> Raspberry Pi 0.
+> Cross Compiler used	-> [Cross Compiler for Raspberry Pi Zero](https://sourceforge.net/projects/raspberry-pi-cross-compilers/files/Raspberry%20Pi%20GCC%20Cross-Compiler%20Toolchains/GCC%206.3.0/Raspberry%20Pi%201%2C%20Zero/)
 
 This is an *experimental* application developed as part of the course "Real Time Embedded Systems" assignment, that took place in the Department of Electrical & Computer Engineering at Aristotle University of Thessaloniki in 2019.
 
