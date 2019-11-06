@@ -49,4 +49,4 @@ Reach out to me:
 
 ## License
 
-[![Beerware License](https://img.shields.io/badge/license-beerware%20%F0%9F%8D%BA-blue.svg)](https://github.com/mpalaourg/RTES_FinalTask/blob/master/LICENCE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mpalaourg/RTES_FinalTask/blob/master/LICENSE)
